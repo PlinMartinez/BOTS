@@ -1,0 +1,22 @@
+Paso 1:
+parece que ok
+
+Paso 2:
+analizador , meterlo junto
+quitar las funciones, todo al mismo nivel mejor
+Falta al sniffer del medio:
+analizar todos los pares y sacar conclusiones
+añadir comparativa al order book?
+
+Falta al de los pedidos:  (cambiar a nombre 3)
+Cada 1 hora anular los pedidos
+Filtrar la lista de pares a solo los que tengan alta volatilidad, y sacar los mercados parados
+
+
+Cruzar con analisis tecnicos varios, ver beneficio, aplicar, readaptar
+Machine learning aplicado
+
+¿añadir a bases de datos?
+Resultados > Ventas, ordenes abiertas, ordenes abiertas, libro de ordenes
+beneficio diario
+comisiones diarias

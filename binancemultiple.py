@@ -50,7 +50,8 @@ for par in pares:
 
         hoy = date.today()
         año, mes, dia = hoy.year, hoy.month, hoy.day
-        nombre = str(año) + str(mes) + str(dia) + par + '.csv'
+        nombre = str(año) + '-' + str(mes) + '-' + \
+            str(dia) + '_' + par + '.csv'
         # ruta='C:\RMB_v2\\ficheros\\'+nombre
         ruta = nombre
         df.to_csv(ruta)
@@ -91,7 +92,8 @@ while True:
             hoy = date.today()
             año, mes, dia = hoy.year, hoy.month, hoy.day
 
-            nombre = str(año) + str(mes) + str(dia) + par + '.csv'
+            nombre = str(año) + '-' + str(mes) + '-' + \
+            str(dia) + '_' + par + '.csv'
 
             # ruta='C:\RMB_v2\\ficheros\\'+nombre
             ruta = nombre

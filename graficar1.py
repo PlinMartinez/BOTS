@@ -8,6 +8,7 @@ Created on Wed Dec 18 10:18:37 2019
 import pandas as pd
 import matplotlib.pyplot as plt
 
+print('LO HE MODIFICADO')
 
 fichero='20191229ADAUSDT.csv'
 df=pd.read_csv(fichero)

@@ -20,3 +20,5 @@ Machine learning aplicado
 Resultados > Ventas, ordenes abiertas, ordenes abiertas, libro de ordenes
 beneficio diario
 comisiones diarias
+ver como seguir
+
